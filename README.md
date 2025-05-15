@@ -30,8 +30,11 @@ yarn dev
 ```
 
 ## Future Scope
-In the future, sounds appropriate for the visuals on the stickers will be added.
+In the future, sounds appropriate for the visuals on the stickers will be added.  
+Ability to give sticker points.
+
 
 ## Licensing
 
-[Terms and Conditions](https://github.com/andromedaprotocol/andromeda-core/blob/development/LICENSE/LICENSE.md)
+This project is licensed under the MIT License. ([Terms and Conditions](https://github.com/andromedaprotocol/andromeda-core/blob/development/LICENSE/LICENSE.md))
+
