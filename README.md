@@ -2,7 +2,7 @@
 This project is a sticker NFT project.
 
 ## Project Description
-It aims to make people laugh and think with stickers.
+The platform where  can collect, trade, and showcase digital sticker NFTs representing. It aims to make people laugh and think with stickers.
 
 ## How It Works
 1. Wallet Connection: Users connect their Keplr wallets to the application.
